@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1760434640881",
+    "title": "General greeting",
+    "category": "Greeting",
+    "content": "Hi, my name is Sakinah! Welcome to AJobThing!"
+  },
+  {
+    "id": "1760435295004",
+    "title": "First Touch Point",
+    "category": "Onboarding",
+    "content": "Hi, my name is Sakinah! I am your support representative from AJobThing!"
+  },
+  {
+    "id": "1760454274363",
+    "title": "Replacement Job Ad",
+    "category": "Compensation",
+    "content": "We're sorry that your published job ad is not performing as expected. I have assigned a free job ad to your account as compensation."
+  },
+  {
+    "id": "1760455566379",
+    "title": "Job Ad Expiry",
+    "category": "Reminder",
+    "content": "Hi employer! Just a friendly reminder that you still have 2 remaining job ads. Do you any help?"
+  },
+  {
+    "id": "1760461028293",
+    "title": "Thank You",
+    "category": "Others",
+    "content": "Hi, thank you for choosing us!"
+  },
+  {
+    "id": "1760463731888",
+    "title": "new",
+    "category": "Others",
+    "content": "sample"
+  }
+]
